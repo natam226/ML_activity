@@ -1,0 +1,5 @@
+#Virtual Environment
+venv/
+
+#data folder
+data/MLA_100k.jsonlines
