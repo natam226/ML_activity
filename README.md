@@ -1,4 +1,8 @@
-# ML_activity
+# ML Activity
+
+This project builds a machine learning pipeline to predict whether a product listed on an e-commerce platform is **new** or **used**, based on product features. It includes data cleaning, feature engineering, model training, and evaluation.
+
+---
 
 ## 🧹 Feature Selection
 
