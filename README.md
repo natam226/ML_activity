@@ -33,6 +33,8 @@ Following an exploratory data analysis (EDA), the following features were select
 ### 🎯 Target Variable
 - `condition` → Binary classification: `new` (1) or `used` (0)
 
+Feature selection was done with simplicity and interpretability in mind, while still preserving meaningful signals for predicting the condition of the item.
+
 ---
 
 ## ⚙️ Trained Models
